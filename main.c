@@ -68,7 +68,7 @@ void loggedOut()
 	}
 }
 
-//Main NotePad code
+//Main NotePad code.
 
 void loggedIn()
 {
